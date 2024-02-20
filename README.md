@@ -5,4 +5,4 @@
 # British Columbia Sheriff Service
 Electronic Terminal for the British Columbia Sheriff Service.
 
-DISCLAIMER: We are not representative of the real BC Agency. This is an imitation of the agency with no real associations. 
+DISCLAIMER: We are not representative of the real BC Agency. This is an imitation of the agency with no real association. 
