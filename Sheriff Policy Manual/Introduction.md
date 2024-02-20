@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-<img width="600" height="300" src="https://www.bgco.ca/wp-content/uploads/sites/32/2019/07/Gov-BC.png">
+<img width="600" height="300" src="https://www.bgco.ca/wp-content/uploads/sites/32/2019/07/Gov-BC.png"> 
 </p>
 
 ---
