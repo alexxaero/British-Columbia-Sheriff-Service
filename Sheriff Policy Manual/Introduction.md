@@ -1,6 +1,8 @@
 # Sheriff Policy Manual
-The BC Sheriff Service' Policy Manual will be found in the folder called SPM, the sheriff policy was designed as a document in which employees of the service can refer to when looking for a certain policy and acts as a guide for the employees and deputies.
+This document has been constructed and produced by the Office of the Chief Sheriff of the author for the British Columbia Sheriff Service. It serves as a guide for day-to-day operations and department policies that all employees must adhere to while in their active employment inside the BC Sheriff's Service.
 
-The BC Sheriff Service expects all deputies to know this manual at the back of their hand as it is a fundemental to succcess within the service.
+The Sheriff Policy Manual was established to create efficient use of operational and departmental guidelines that all employees must abide by while they are employed inside the Sheriff's Service.
 
-CLASSIFICATION LEVEL: UNCLASSIFIED 
+It’s advised that those employed inside the British Columbia Sheriff Service to review this document and understand the current policies and procedures set in place for maximum efficiency.
+
+Upon signature from the Chief Sheriff and his subordinates, all current policies, procedures, and handbooks have been decommissioned and will no longer be used for operational purposes. Therefore, old guidelines and manuals will no longer be in use and will be required to follow.
