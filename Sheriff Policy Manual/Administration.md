@@ -1,3 +1,17 @@
+---
+
+<p align="center">
+<img width="600" height="300" src="https://www.bgco.ca/wp-content/uploads/sites/32/2019/07/Gov-BC.png">
+</p>
+
+---
+
+<p align="center">
+  <b>SHERIFF POLICY MANUAL</b>
+</p>
+
+---
+
 # § 3.1 | Chief Sheriff
 Under the guidance of the Chief Sheriff, the British Columbia Sheriff Service operates
 under the direction of the Chief Sheriff, AlexAero. All department operations, procedures
