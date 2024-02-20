@@ -29,6 +29,8 @@ their duties as Bureau Commanders. They also assume general responsibilities, co
 and oversight of the department if both the Chief Sheriff and Deputy Chief Sheriff are
 absent.
 
+---
+
 # § 2.3 | Superintendent (2)
 The Superintendents are considered the fourth highest-ranking individual in the British
 Columbia Sheriff Service. They are responsible for commanding a specific bureau,
@@ -54,6 +56,8 @@ Inspector, but instead of assuming general command over a division, they assist 
 and may serve as Acting Staff Inspector in the event of an absence or vacancy until their
 officialised appointment.
 
+---
+
 # § 2.6 | Staff Sergeant (6)
 The Staff Sergeants are considered the highest-ranking supervisory individual inside the
 British Columbia Sheriff Service and serve as the division assistant directors. They are
@@ -71,6 +75,8 @@ towards their designated duties, and good conduct is displayed. As unit supervis
 are given the authority to respond to and handle supervisor requests and conduct bi-weekly
 activity reports and submit them to their superiors. Sergeants and above are considered
 supervisors, and all reserve the right to respond to and handle supervisor requests.
+
+---
 
 # § 2.8 | Senior Deputy Sheriff (16)
 The Senior Deputy Sheriffs are experienced-level employees inside the British Columbia
@@ -91,6 +97,8 @@ reasonable suspicion. These are the faces of the British Columbia Sheriff Servic
 of the conduct and behaviour they display while on duty reflects the department’s
 reputation. Depending on their assigned division and bureau, each Deputy Sheriff has a
 unique responsibility and duty compared with another division/bureau.
+
+---
 
 # § 2.10 | Recruit (30)
 The Recruits are newly inducted trainees who have just been accepted into the British
