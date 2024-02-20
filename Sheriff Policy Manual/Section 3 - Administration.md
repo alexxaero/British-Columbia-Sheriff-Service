@@ -93,3 +93,56 @@ investigations upon submission of a complaint. It is also responsible for audits
 The Combat Interdiction Squad is the tactical component that is
 responsible for handling high-risk situations pertaining to protective
 operations.
+
+# § 3.7 | Order of Succession
+The British Columbia Sheriff Service has a designated order of succession in the event that
+there is a vacancy within the ranks of Command, High, or Administration. This serves as a
+non-bias “promotional” regulation to ensure that all promotions are fair for all personnel
+and the limitations of being “biassed”. The Order of Succession and/or order of notification
+in the event of an emergency, the chain of command is as follows:
+- Chief Sheriff
+- Deputy Chief
+- Chief Superintendent
+- Superintendent: Special Operations Bureau
+- Superintendent: Field Operations Bureau
+- Staff Inspector: Protective Operations
+- Staff Inspector: Internal Affairs
+
+In choosing someone for a promotion, the Deputy Chief and the Chief Sheriff will look at the
+Order of Succession, based on who does the most work. It is purely based on conduct &
+behaviour that not everyone in that order will receive promotions.
+
+# § 3.8 | Audit Function
+The Chief Sheriff and their administrative team have the authority to request and initiate an
+audit for a particular division that may be lacking in terms of activity, dedication or poor
+conduct displayed by division personnel or incompetent leadership.
+The audit function is made up of a group of investigators picked by SID Command to
+partake in the audit and they are responsible for investigating matters and ensuring that the
+division is operating to the best of its ability.
+Audit conclusions usually result in disciplinary action which is usually administered by the
+IA Director or SOB Superintendent at the discretion of the Chief Sheriff and his office.
+However, these audits may not last more than thirty days without approval from the Office
+of the Chief Sheriff.
+
+The Office of the Chief Sheriff may initiate a department-wide audit which will operate the
+same way as a general audit would, but it’ll affect everyone who's currently employed in the
+department or apply to certain aspects only.
+
+# § 3.9 | Reformation Function
+The Chief Sheriff and their administrative team have the authority to initiate a
+department-wide reform or division reforms if it’s found reasonable and in accordance with
+passed Legislation and departmental policy. Bureaus and divisions allocated within the
+British Columbia Sheriff Service are subjected to reformation if an audit reveals that
+leadership is acting outside of their designated capacity or fails to uphold their duties.
+Bureau reforms must get authorised and approved by the Chief Superintendent and the
+Deputy Chief or Chief Sheriff. Whilst divisions' reforms must get authorised and approved
+by their designated Superintendent and a member of the Office of the Chief Sheriff or the
+Deputy Chief.
+
+The main purpose of the reformation function is to help improve behaviour, department
+representation, inactivity or other reasons, and it’s primarily for certain bureaus, divisions or
+even the British Columbia Sheriff Service as a whole. Reforms help give the department or
+divisions a fresh start by installing new command personnel or introducing major policies or
+procedures that the service is based on. These functions can result in the removal of
+individual positions or even a department discharge if it’s found necessary to do so, and the
+British Columbia Sheriff's Service will benefit from it.
