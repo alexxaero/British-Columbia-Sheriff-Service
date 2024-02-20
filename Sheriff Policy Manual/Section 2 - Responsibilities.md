@@ -89,19 +89,9 @@ position and generally require more than three months of continuous service in t
 Columbia Sheriff Service.
 
 # § 2.9 | Deputy Sheriff (90)
-The Deputy Sheriffs are standard-level employees inside the British Columbia Sheriff
-Service, and they serve as peace officers in the province of British Columbia. Standard
-employees are responsible for enforcing laws and policing around the City of Vancouver,
-where they have the right to arrest and detain an individual if there is probable cause and
-reasonable suspicion. These are the faces of the British Columbia Sheriff Service, and any
-of the conduct and behaviour they display while on duty reflects the department’s
-reputation. Depending on their assigned division and bureau, each Deputy Sheriff has a
-unique responsibility and duty compared with another division/bureau.
+The Deputy Sheriffs are standard-level employees inside the British Columbia Sheriff Service, and they serve as peace officers in the province of British Columbia. Standard employees are responsible for enforcing laws and policing around the City of Vancouver, where they have the right to arrest and detain an individual if there is probable cause and reasonable suspicion. These are the faces of the British Columbia Sheriff Service, and any of the conduct and behaviour they display while on duty reflects the department’s reputation. Depending on their assigned division and bureau, each Deputy Sheriff has a unique responsibility and duty compared with another division/bureau.
 
 ---
 
 # § 2.10 | Recruit (30)
-The Recruits are newly inducted trainees who have just been accepted into the British
-Columbia Sheriff Service, and they are responsible for completing the Sheriff Academy in a
-timely manner that has been set by the Training Division. All recruits are expected to attend sessions which teach them information and knowledge about the department and our
-operations, policies, and procedures that they are expected to know upon graduation.
+The Recruits are newly inducted trainees who have just been accepted into the British Columbia Sheriff Service, and they are responsible for completing the Sheriff Academy in a timely manner that has been set by the Training Division. All recruits are expected to attend sessions which teach them information and knowledge about the department and our operations, policies, and procedures that they are expected to know upon graduation.
