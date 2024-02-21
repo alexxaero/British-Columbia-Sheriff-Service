@@ -1,3 +1,17 @@
+---
+
+<p align="center">
+<img width="600" height="300" src="https://www.bgco.ca/wp-content/uploads/sites/32/2019/07/Gov-BC.png">
+</p>
+
+---
+
+<p align="center">
+  <b>SHERIFF POLICY MANUAL</b>
+</p>
+
+---
+
 # § 1.1 | Duties 
 The British Columbia Sheriff Service is one of the Provincial Assembly that has set forth Columbia, founded in 1857. The department is overseen by the Ministry of Justice’s Attorney General and provides security assistance in the provincial, appeal and supreme courts in British Columbia. Deputy Sheriffs are given the authority of a peace officer as provided in the B.C. Sheriff Act and the B.C. Police Act when executing official duties. They have the authority and power to enforce all federal and provincial laws that the City Council and Provincial Assembly have set forth, this also extends to the Vancouver Criminal Code.
 
