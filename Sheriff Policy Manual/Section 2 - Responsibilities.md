@@ -1,3 +1,17 @@
+---
+
+<p align="center">
+<img width="600" height="300" src="https://www.bgco.ca/wp-content/uploads/sites/32/2019/07/Gov-BC.png">
+</p>
+
+---
+
+<p align="center">
+  <b>SHERIFF POLICY MANUAL</b>
+</p>
+
+---
+
 # § 2.1 | Preface
 To ensure the success of the department's mission, all members are responsible for
 completing assigned tasks and duties. Besides this basic responsibility, and any other
