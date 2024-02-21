@@ -1,3 +1,17 @@
+---
+
+<p align="center">
+<img width="600" height="300" src="https://www.bgco.ca/wp-content/uploads/sites/32/2019/07/Gov-BC.png">
+</p>
+
+---
+
+<p align="center">
+  <b>SHERIFF POLICY MANUAL</b>
+</p>
+
+---
+
 # § 4.1 | Conduct Regulations
 Whilst employed under the British Columbia Sheriff Service, personnel are expected and
 mandated to follow all contents listed in this section and other information that’s been
